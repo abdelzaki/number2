@@ -10,7 +10,8 @@ modify in remote
 
 change local 2
 
+files added in branch
 
+things deleted in branch
 
-chanhe remote 2
 
